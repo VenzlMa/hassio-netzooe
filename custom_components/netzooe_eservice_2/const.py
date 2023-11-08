@@ -1,3 +1,3 @@
 """Constants for the NetzOÖ eService integration."""
 
-DOMAIN = "netzooe_eservice"
+DOMAIN = "netzooe_eservice_2"
