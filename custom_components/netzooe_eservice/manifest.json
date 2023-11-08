@@ -1,15 +1,15 @@
 {
   "domain": "netzooe_eservice",
-  "name": "NetzOOE eService",
+  "name": "NetzOOE eService 2",
   "codeowners": [
-    "@VarChar42"
+    "@VenzlMa"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/VarChar42/hassio-netzooe-eservice",
+  "documentation": "https://github.com/VenzlMa/hassio-netzooe.git",
   "integration_type": "hub",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/VarChar42/hassio-netzooe-eservice/issues",
+  "issue_tracker": "https://github.com/VenzlMa/hassio-netzooe.git/issues",
   "requirements": [
     "requests"
   ],
