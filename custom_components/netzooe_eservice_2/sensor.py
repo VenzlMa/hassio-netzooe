@@ -47,7 +47,7 @@ class ApiCoordinator(DataUpdateCoordinator):
             hass,
             _LOGGER,
             name="NetzOOE",
-            update_interval=datetime.timedelta(hours=1),
+            update_interval=datetime.timedelta(hours=0.1),
         )
         self.api = api
         self.hass = hass
